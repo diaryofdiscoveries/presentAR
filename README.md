@@ -2,6 +2,8 @@ PresentAR
 ==========
 The website component of a presentation aid for AR.
 
+Demo here: http://slides.com/mengchenwang/presentar#/
+
 Continuous Deployment via Heroku
 ----
 https://presentar.herokuapp.com/
@@ -14,7 +16,7 @@ Technologies used
 How to set up the application
 ----
 ```
-$ git clone https://github.com/comatoastuk/presentAR.git
+$ git clone https://github.com/diaryofdiscoveries/presentAR.git
 $ cd presentAR
 $ bundle
 $ rake db:setup
@@ -33,3 +35,10 @@ How to run tests
 $ cd presentAR
 $ rspec
 ```
+
+Team:
+----
+- Luan van Pletsen
+- Mengchen Wang
+- James Stubbs
+- Zoë Hopkins
