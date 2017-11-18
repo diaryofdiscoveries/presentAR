@@ -1,6 +1,6 @@
 PresentAR
 ==========
-The website component of a presentation aid for AR.
+The website component of a presentation aid for AR (a final project at Makers Academy), hosting low poly models and images for use with Unity (v0.2) and Vuforia.
 
 Demo here: http://slides.com/mengchenwang/presentar#/
 
